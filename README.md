@@ -13,3 +13,12 @@ source https://github.com/GoogleCloudPlatform/cloud-run-hello
 たぶん、これを自動でやってくれるのかな。document.referrer のURLをclone、デプロイ先設定、build、deploy?
 
 https://cloud.google.com/run/docs/quickstarts/build-and-deploy
+
+# reference link
+* https://console.cloud.google.com/gcr/images/cloud-marketplace/GLOBAL
+* https://cloud.google.com/free/docs/gcp-free-tier?hl=ja
+* marketplace.gcr.io/google/ubuntu1804 76.8MB 
+* marketplace.gcr.io/google/nginx1 222MB
+* nginx 126MB
+  * root /usr/share/nginx/html
+  * https://qiita.com/dtan4/items/0fe6cca5487698afa68c
