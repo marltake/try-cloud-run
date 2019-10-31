@@ -22,3 +22,5 @@ https://cloud.google.com/run/docs/quickstarts/build-and-deploy
 * nginx 126MB
   * root /usr/share/nginx/html
   * https://qiita.com/dtan4/items/0fe6cca5487698afa68c
+  * http://www.ess.ic.kanagawa-it.ac.jp/app_images_j.html#image_dl
+  * http://www.ess.ic.kanagawa-it.ac.jp/std_img/colorimage/lena_std.bmp
